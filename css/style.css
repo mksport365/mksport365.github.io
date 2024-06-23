@@ -272,6 +272,31 @@ body{
     color: #999;
     font-size: .875em;
 }
+.news-line{
+	/* margin: 2em 0 0em; */
+    line-height: 2em;
+    color: #999;
+    font-size: 1.875em;
+}
+.news-line,.news-line-h1>a{
+	text-decoration: none;
+	color: #999;
+	font-size: 1.0em;
+}
+.news-line_p{
+	
+}
+.news-line>a:hover,:visited{
+	text-decoration: none;
+}
+.news-line_l{
+	float: left;
+	margin-right: 1em;
+	color: #000;
+	font-size: 1.12em;
+}
+
+
 .agileits_welcome_grid_left p i{
 	display:block;
 	margin:1em 0 0;
